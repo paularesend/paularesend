@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Paula, a Software Engineer student and Back-end Developer with focus on Java and the Spring Framework.
+
+## About me
+- 🌎 I’m currently working as a System Analyst in Brazil.
+- 📌 I have hands-on experience with Spring Boot, Spring Data JPA, Spring Security, and Spring Cloud for distributed services, as well as working with databases and RESTful architectures.
+- 💌 How to reach me: https://www.linkedin.com/in/paula-resende-73623b174/?locale=en_US
+- 😉 Fun fact: I’m also passionate about cybersecurity!
